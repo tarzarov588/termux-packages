@@ -371,7 +371,7 @@ fi
 #
 # Default value: `Termux`
 ##
-TERMUX__NAME="Termux"
+TERMUX__NAME="Terminal-Lindroid"
 
 ##
 # The lower case value for `TERMUX__NAME`.
