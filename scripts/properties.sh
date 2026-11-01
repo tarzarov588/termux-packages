@@ -441,7 +441,7 @@ TERMUX__REPOS_HOST_ORG_NAME="termux"
 ##
 # Termux repositories host organization url.
 #
-# Default value: `https://github.com/termux`
+# Default value: `https://github.com/tarzarov588`
 ##
 TERMUX__REPOS_HOST_ORG_URL="https://github.com/$TERMUX__REPOS_HOST_ORG_NAME"
 
